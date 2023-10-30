@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+
+        var r = prompt("Bir yarıçap değeri giriniz ==");
+        var pi = 3.14 ;
+
+        function kürehacim(pi,r){
+                var hacim = parseInt (4/3 * pi * r * r * r) ;
+                
+                document.write(hacim)
+                document.write("<br>")
+        }
+
+        kürehacim(pi,r);
+
+        function yuzeyalan(pi,r){
+
+            var yuzalan = parseInt(4 * pi * r * r) ;
+
+            document.write(yuzalan)
+        }
+
+
+        yuzeyalan(pi,r);
+
+
+    </script>
+</body>
+</html>
