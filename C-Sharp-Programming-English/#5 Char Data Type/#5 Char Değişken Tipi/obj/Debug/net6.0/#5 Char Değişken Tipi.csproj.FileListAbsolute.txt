@@ -1,0 +1,14 @@
+C:\Users\enesb\source\repos\#5 Char Değişken Tipi\#5 Char Değişken Tipi\bin\Debug\net6.0\#5 Char Değişken Tipi.exe
+C:\Users\enesb\source\repos\#5 Char Değişken Tipi\#5 Char Değişken Tipi\bin\Debug\net6.0\#5 Char Değişken Tipi.deps.json
+C:\Users\enesb\source\repos\#5 Char Değişken Tipi\#5 Char Değişken Tipi\bin\Debug\net6.0\#5 Char Değişken Tipi.runtimeconfig.json
+C:\Users\enesb\source\repos\#5 Char Değişken Tipi\#5 Char Değişken Tipi\bin\Debug\net6.0\#5 Char Değişken Tipi.dll
+C:\Users\enesb\source\repos\#5 Char Değişken Tipi\#5 Char Değişken Tipi\bin\Debug\net6.0\#5 Char Değişken Tipi.pdb
+C:\Users\enesb\source\repos\#5 Char Değişken Tipi\#5 Char Değişken Tipi\obj\Debug\net6.0\#5 Char Değişken Tipi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enesb\source\repos\#5 Char Değişken Tipi\#5 Char Değişken Tipi\obj\Debug\net6.0\#5 Char Değişken Tipi.AssemblyInfoInputs.cache
+C:\Users\enesb\source\repos\#5 Char Değişken Tipi\#5 Char Değişken Tipi\obj\Debug\net6.0\#5 Char Değişken Tipi.AssemblyInfo.cs
+C:\Users\enesb\source\repos\#5 Char Değişken Tipi\#5 Char Değişken Tipi\obj\Debug\net6.0\#5 Char Değişken Tipi.csproj.CoreCompileInputs.cache
+C:\Users\enesb\source\repos\#5 Char Değişken Tipi\#5 Char Değişken Tipi\obj\Debug\net6.0\#5 Char Değişken Tipi.dll
+C:\Users\enesb\source\repos\#5 Char Değişken Tipi\#5 Char Değişken Tipi\obj\Debug\net6.0\refint\#5 Char Değişken Tipi.dll
+C:\Users\enesb\source\repos\#5 Char Değişken Tipi\#5 Char Değişken Tipi\obj\Debug\net6.0\#5 Char Değişken Tipi.pdb
+C:\Users\enesb\source\repos\#5 Char Değişken Tipi\#5 Char Değişken Tipi\obj\Debug\net6.0\#5 Char Değişken Tipi.genruntimeconfig.cache
+C:\Users\enesb\source\repos\#5 Char Değişken Tipi\#5 Char Değişken Tipi\obj\Debug\net6.0\ref\#5 Char Değişken Tipi.dll
