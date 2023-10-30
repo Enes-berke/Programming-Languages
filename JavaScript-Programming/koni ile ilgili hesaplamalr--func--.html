@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+
+        var r = parseInt(prompt("Yarı cap değeri giriniz"))
+        var h = parseInt(prompt("Yükseklik değeri giriniz"))
+        
+        pi = 3.14      
+        //h 4 r 3 
+       
+        let a = (r*2+h*2)*(1/2)
+        
+        function tabanAlani(pi,r) {
+            alan1 = pi * r * r
+            document.write(alan1)
+            document.write("<br>")  
+        }
+
+        tabanAlani(pi,r);
+
+        function yanalAlan(pi,r,a) {
+            alan2 = pi * r * a
+            document.write(alan2)
+            document.write("<br>")  
+
+        }
+
+        yanalAlan(pi,r,a);
+
+        function hacim(pi,r,h) {
+            hacim= (pi*r*r*h)/3
+            document.write(hacim)
+            document.write("<br>")  
+
+        }
+        hacim(pi,r,h);
+
+        function toplamAlan() {
+            alan3= alan1+alan2
+            document.write(alan3)
+            document.write("<br>")  
+
+        }
+        toplamAlan();
+
+
+    </script>
+</body>
+</html>
