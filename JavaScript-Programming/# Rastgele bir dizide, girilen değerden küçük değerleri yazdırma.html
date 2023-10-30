@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body> 
+    <script> // 15 elemanlı bir dizi, kullanıcı değer giriyor. Girilen değerden küçük dizideki 
+             // elemanların toplamını yazdır.
+             
+             let a = Array.from({length: 15}, () => Math.floor(Math.random() * 100));console.log(a);
+
+             var deger = 0;
+             var x = prompt(" bir x değeri girniz = ");
+
+             for (i=0 ; i<a.length ; i++){
+                if(x > a[i]){
+        
+                    deger = deger + a[i];
+                    
+                }
+             }
+
+             document.write(deger+ "<br>");
+
+
+    </script>
+</body>
+</html>
