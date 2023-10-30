@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+    var x = prompt(" Bir x değeri giriniz =");
+    var y = prompt(" Bir y değeri giriniz =");
+    var toplam = 0;
+    var i ;
+
+    if(x<y){
+        for(i=x ; i<=y ; i++){
+            if(i % 2 == 0 ){
+                toplam += parseInt(i)
+            }   
+        }      
+            document.write(toplam + "<br>")
+    }
+
+        else if(x>y){
+            for(i=y ; i<=x ; i++){
+                if(i % 2 ==0){
+                    toplam = toplam + i
+                }
+            }
+            document.write(toplam)
+        }
+
+        else{ //x == y
+            if(x % 2 == 0){
+                document.write(x)
+            }
+            else{
+                document.write("Sayı tektir.")
+            }
+        }
+
+
+
+
+    </script>
+</body>
+</html>
